@@ -17,3 +17,5 @@ class CreateCostumes < ActiveRecord::Migration[5.2]
       t.string :url
     end
 end
+end 
+
